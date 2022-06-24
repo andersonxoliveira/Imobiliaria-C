@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1620352958 source:c:\users\windoows7\desktop\c++\trabalho2\dominios.cpp
+	<string>
+	<stdexcept>
+	<ctype.h>
+	"dominios.h"
+
+1618410548 c:\users\windoows7\desktop\c++\trabalho2\dominios.h
+	<iostream>
+	<string>
+
+1618413628 source:c:\users\windoows7\desktop\c++\trabalho2\testes.cpp
+	"testes.h"
+
+1618413641 c:\users\windoows7\desktop\c++\trabalho2\testes.h
+	"dominios.h"
+	"entidades.h"
+
+1620346701 c:\users\windoows7\desktop\c++\trabalho2\entidades.h
+	<string>
+	"dominios.h"
+
+1619214066 source:c:\users\windoows7\desktop\c++\trabalho2\entidades.cpp
+	"entidades.h"
+
+1620354221 source:c:\users\windoows7\desktop\c++\trabalho2\controladorasapresentacao.cpp
+	"controladorasapresentacao.h"
+
+1620355549 c:\users\windoows7\desktop\c++\trabalho2\controladorasapresentacao.h
+	<conio.h>
+	<iostream>
+	<string.h>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<cstdlib>
+	"interface.h"
+	"dominios.h"
+	"entidades.h"
+
+1620330951 source:c:\users\windoows7\desktop\c++\trabalho2\main.cpp
+	<iostream>
+	<string.h>
+	"dominios.h"
+	"entidades.h"
+	"interface.h"
+	"controladorasapresentacao.h"
+	"controladorasservico.h"
+
+1620355549 c:\users\windoows7\desktop\c++\trabalho2\interface.h
+	"dominios.h"
+	"entidades.h"
+
+1620355549 source:c:\users\windoows7\desktop\c++\trabalho2\controladorasservico.cpp
+	<conio.h>
+	"controladorasservico.h"
+	"dominios.h"
+
+1620355549 c:\users\windoows7\desktop\c++\trabalho2\controladorasservico.h
+	"dominios.h"
+	"entidades.h"
+	"interface.h"
+	"containers.h"
+
+1620251741 source:c:\users\windoows7\desktop\c++\trabalho2\stubs.cpp
+
+1620355550 c:\users\windoows7\desktop\c++\trabalho2\containers.h
+	"entidades.h"
+	"dominios.h"
+	<list>
+
+1620355550 source:c:\users\windoows7\desktop\c++\trabalho2\containers.cpp
+	"containers.h"
+
